@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	// Input
 	fmt.Println(pairExists([]int{10,15,3,7}, 17))
         fmt.Println(pairExists([]int{1,2,3,4,5,6,7}, 13))
         fmt.Println(pairExists([]int{1,2,3,4,5,6,7}, 14))
